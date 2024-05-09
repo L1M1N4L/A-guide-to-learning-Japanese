@@ -21,8 +21,7 @@ This guide is designed with a clear focus on three main objectives:
 1. **Passing JLPT**: Whether you're aiming to pass the JLPT N5 or aiming for the highest level, this guide provides structured lessons and practice materials to help you succeed.
 2. **University Preparation**: If your goal is to study at a Japanese university, the guide offers resources and tips to prepare you for the language proficiency requirements, including insights from studying for the EJU.
 3. **Speaking Proficiency**: Beyond just passing exams, this guide prioritizes learning how to speak like native Japanese speakers, with a special emphasis on mastering pitch accent and other nuances of natural speech.
-
-## Table of Contents
+4. 
 
 ## Table of Contents
 
