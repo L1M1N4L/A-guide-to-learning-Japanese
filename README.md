@@ -1,6 +1,10 @@
 # A guide to learning Japanese
 
-Welcome to the Learn Japanese Guide! Whether you're a beginner embarking on your Japanese language journey or seeking to enhance your existing skills, this guide is designed to provide you with comprehensive resources and structured lessons to achieve your language learning goals.
+Welcome to the Learn Japanese Guide, your go-to resource for mastering Japanese. Whether you're a beginner or looking to refine your skills, this guide offers a structured approach to language learning.
+
+Created from extensive research and personal experience, this guide provides a comprehensive framework for success. As a language enthusiast and educator, I've curated this resource to address common questions and challenges faced by learners.
+
+Whether your goals include passing exams, preparing for university, or simply speaking fluently, this guide is designed to support your journey. Let's embark on this adventure together and unlock the full potential of your Japanese proficiency!
 
 ## About the Author
 
@@ -8,7 +12,7 @@ Hi, I'm L1M1N4L, your guide on this Japanese language adventure. Why should you 
 
 - **Language Learning Journey**: I've dedicated myself to mastering Japanese language skills, including studying extensively for the Examination for Japanese University Admission for International Students (EJU).
 - **Pitch Accent Emphasis**: Understanding pitch accent is crucial for sounding more natural and native-like in Japanese speech. With my expertise in pitch accent, I'll guide you through mastering this aspect of the language.
-- **Teaching Experience**: I've taught Japanese language and culture, with a particular emphasis on pitch accent, at one of Indonesia's most prestigious universities, Universitas Indonesia.
+- **Teaching Experience**: Utilizing my teaching tenure at Lembaga Bahasa Internasional (LBI UI), affiliated with Universitas Indonesia, I've concentrated on Japanese language and culture, placing significant emphasis on pitch accent. This experience enriches the guidance provided within this resource.
 
 ## Guide Focus
 
