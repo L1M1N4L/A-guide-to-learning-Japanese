@@ -4,7 +4,7 @@ Welcome to the Learn Japanese Guide! Whether you're a beginner embarking on your
 
 ## About the Author
 
-Hi, I'm [Your Name], your guide on this Japanese language adventure. Why should you trust me? Here are a few reasons:
+Hi, I'm L1M1N4L, your guide on this Japanese language adventure. Why should you trust me? Here are a few reasons:
 
 - **Language Learning Journey**: I've dedicated myself to mastering Japanese language skills, including studying extensively for the Examination for Japanese University Admission for International Students (EJU).
 - **Pitch Accent Emphasis**: Understanding pitch accent is crucial for sounding more natural and native-like in Japanese speech. With my expertise in pitch accent, I'll guide you through mastering this aspect of the language.
