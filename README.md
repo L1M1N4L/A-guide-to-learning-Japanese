@@ -24,6 +24,8 @@ This guide is designed with a clear focus on three main objectives:
 
 ## Table of Contents
 
+## Table of Contents
+
 1. [Introduction to Japanese Language](#introduction-to-japanese-language)
    - Brief overview of the Japanese language, its importance, and unique characteristics.
 
@@ -32,28 +34,33 @@ This guide is designed with a clear focus on three main objectives:
    - Basic Vocabulary and Phrases
    - Simple Sentence Structure
 
-3. [Grammar Foundations](#grammar-foundations)
+3. [ Lorem ipsum dolor sit amet](#grammar-foundations)
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
-4. [Intermediate Concepts](#intermediate-concepts)
+4. [ Lorem ipsum dolor sit amet](#intermediate-concepts)
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
+5. [ Lorem ipsum dolor sit amet](#reading-and-writing-practice)
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
-5. [Reading and Writing Practice](#reading-and-writing-practice)
+6. [Lorem ipsum dolor sit amet](#listening-and-speaking-practice)
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
+7. [ Lorem ipsum dolor sit amet](#cultural-insights)
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
-6. [Listening and Speaking Practice](#listening-and-speaking-practice)
+8. [ Lorem ipsum dolor sit amet](#preparing-for-exams-and-university)
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
+9. [ Lorem ipsum dolor sit amet](#mastering-speaking-skills)
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
-7. [Cultural Insights](#cultural-insights)
+10. [ Lorem ipsum dolor sit amet](#additional-resources)
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
+11. [ Lorem ipsum dolor sit amet](#conclusion)
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
 
-8. [Preparing for Exams and University](#preparing-for-exams-and-university)
-
-9. [Mastering Speaking Skills](#mastering-speaking-skills)
-
-
-10. [Additional Resources](#additional-resources)
-
-11. [Conclusion](#conclusion)
 
 
 ## How to Use This Guide
