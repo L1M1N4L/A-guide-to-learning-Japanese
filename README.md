@@ -22,6 +22,40 @@ This guide is designed with a clear focus on three main objectives:
 2. **University Preparation**: If your goal is to study at a Japanese university, the guide offers resources and tips to prepare you for the language proficiency requirements, including insights from studying for the EJU.
 3. **Speaking Proficiency**: Beyond just passing exams, this guide prioritizes learning how to speak like native Japanese speakers, with a special emphasis on mastering pitch accent and other nuances of natural speech.
 
+## Table of Contents
+
+1. [Introduction to Japanese Language](#introduction-to-japanese-language)
+   - Brief overview of the Japanese language, its importance, and unique characteristics.
+
+2. [Getting Started](#getting-started)
+   - Introduction to Hiragana and Katakana
+   - Basic Vocabulary and Phrases
+   - Simple Sentence Structure
+
+3. [Grammar Foundations](#grammar-foundations)
+
+4. [Intermediate Concepts](#intermediate-concepts)
+
+
+5. [Reading and Writing Practice](#reading-and-writing-practice)
+
+
+6. [Listening and Speaking Practice](#listening-and-speaking-practice)
+
+
+7. [Cultural Insights](#cultural-insights)
+
+
+8. [Preparing for Exams and University](#preparing-for-exams-and-university)
+
+9. [Mastering Speaking Skills](#mastering-speaking-skills)
+
+
+10. [Additional Resources](#additional-resources)
+
+11. [Conclusion](#conclusion)
+
+
 ## How to Use This Guide
 
 To get started, simply navigate through the chapters and resources provided in this repository. Each section is carefully structured to build upon the previous lessons, gradually advancing your Japanese language skills.
