@@ -11,7 +11,7 @@ Whether your goals include passing exams, preparing for university, or simply sp
 Hi, I'm L1M1N4L, your guide on this Japanese language adventure. Why should you trust me? Here are a few reasons:
 
 - **Language Learning Journey**: I've dedicated myself to mastering Japanese language skills, including studying extensively for the Examination for Japanese University Admission for International Students (EJU).
-- **Pitch Accent Emphasis**: Understanding pitch accent is crucial for sounding more natural and native-like in Japanese speech. With my expertise in pitch accent, I'll guide you through mastering this aspect of the language.
+- **Pitch Accent Emphasis**: Understanding pitch accent is crucial for sounding more natural and native-like in Japanese speech. I'll provide guides for you to master this aspect of the language.
 - **Teaching Experience**: Utilizing my teaching tenure at Lembaga Bahasa Internasional (LBI UI), affiliated with Universitas Indonesia, I've concentrated on Japanese language and culture, placing significant emphasis on pitch accent. This experience enriches the guidance provided within this resource.
 
 ## Guide Focus
