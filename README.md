@@ -154,4 +154,5 @@ When starting to learn Japanese, mastering the three writing systems is importan
 
 - Kanji are characters borrowed from Chinese that convey both meaning and sound. These characters form the stems of many Japanese words and are essential for comprehending the nuances and depth of the language.
 
-![japanese writing (1)](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/9a1ca518-a472-46e6-bf01-b34f996f6484)
+![japanese_writing__1_-removebg](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/6e7f91d0-c57a-4672-a6ba-8dfb6c824488)
+
