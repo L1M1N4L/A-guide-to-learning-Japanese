@@ -35,6 +35,7 @@ This guide is designed with a clear focus on three main objectives:
    - Hiragana
    - Katakana
    - Mastering the Kana: A Step-by-Step Guide
+   - Kanji
 
 3. [ Lorem ipsum dolor sit amet](#grammar-foundations)
    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
