@@ -145,3 +145,7 @@ For those starting their journey with the Japanese language, the process typical
 - Studying Japanese grammar through structured lessons (which later will be provided in this guide).
 - Immersing oneself in easy content with high repetition. This step will consume a significant amount of time and effort.
 
+### The japanese writing system
+When starting to learn Japanese, mastering the three writing systems is important. These systems, hiragana, katakana, and kanji, each serve distinct purposes and play vital roles in reading, writing, and understanding the language.
+#### Hiragana: The Phonetic Alphabet
+- Hiragana is a set of 46 characters that represent the basic sounds of the Japanese language. These characters are primarily used for particles, native Japanese words, and portions of words. Hiragana is essential for expressing the pronunciation of Japanese words and sentences correctly.
