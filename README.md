@@ -70,7 +70,9 @@ Feel free to explore at your own pace, and don't hesitate to reach out if you ha
 
 
 ## Introduction
-### hardstuck?
+### HARDSTUCK?
+
+Lets start with the definition of HARDSTUCK, hardstuck (comparative more hardstuck, superlative most hardstuck) (video games, slang) refers to a person who  is firmly stuck at a particular rank or Elo level; unable to progress in skill.
 
 Many japanese students aim for goals like being able to speak the language fluently to enjoy untranslated Japanese media like anime or literature. However, despite years of study, many people get HARDSTUCK in reaching their goals. The issue MIGHT not be the difficulty of the language itself or a lack of effort on the part of the learners. Instead, the traditional methods of Japanese language learning often lack what is most important in the world of language aquisition: immersion.
 
