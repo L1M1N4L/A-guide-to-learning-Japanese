@@ -36,35 +36,17 @@ This guide is designed with a clear focus on three main objectives:
    - Katakana
    - Mastering the Kana: A Step-by-Step Guide
    - Kanji
+   - introduction to japanese grammar
+   - beginner immersion
+   - beginner Learning process
 
-3. [ Lorem ipsum dolor sit amet](#grammar-foundations)
-   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-4. [ Lorem ipsum dolor sit amet](#intermediate-concepts)
-   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-5. [ Lorem ipsum dolor sit amet](#reading-and-writing-practice)
-   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-6. [Lorem ipsum dolor sit amet](#listening-and-speaking-practice)
-   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-7. [ Lorem ipsum dolor sit amet](#cultural-insights)
-   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-8. [ Lorem ipsum dolor sit amet](#preparing-for-exams-and-university)
-   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-9. [ Lorem ipsum dolor sit amet](#mastering-speaking-skills)
-   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-10. [ Lorem ipsum dolor sit amet](#additional-resources)
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-11. [ Lorem ipsum dolor sit amet](#conclusion)
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
-
-
+3. [Introduction to post beginner stage]()
+   - Introduction to Output
+   - Introduction to Pitch Accent
+   - Preparing for Grammar Study
+   
+4. [Grammar Study](#intermediate-concepts)
+   - 
 
 ## How to Use This Guide
 
