@@ -30,9 +30,11 @@ This guide is designed with a clear focus on three main objectives:
    - You Might Not Be as Good as You Think
    - Immersive Language Learning Journey
 2. [Getting Started](#getting-started)
-   - Introduction to Hiragana and Katakana
-   - Basic Vocabulary and Phrases
-   - Simple Sentence Structure
+   - A Beginner's Path to Learning Japanese
+   - The japanese writing system
+   - Hiragana
+   - Katakana
+   - Kanji
 
 3. [ Lorem ipsum dolor sit amet](#grammar-foundations)
    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
