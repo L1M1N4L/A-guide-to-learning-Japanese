@@ -203,3 +203,7 @@ Once you have gained a basic understanding of the kana, reinforce your knowledge
 - do it with all "Katakana" also checked.
   ![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/870bfd19-2a81-48fb-83c1-a302de4d00f4)
 - Repeat until confident (may take a few days or weeks).
+
+### Step 4 -  Practice, Practice, Practice
+immerse yourself in Japanese media and culture. Try reading household Japanese items, such as product labels or instructions, to expose yourself to kana in everyday contexts. Additionally, what helps immensely in memorizing the kana is reading sentences written entirely in kana. While not everything in Japanese is written in kana, and you may have trouble reading most materials without kanji knowledge at this point, sometimes kana is provided over kanji to aid reading. This is known as furigana. For example: <ruby>切磋琢磨<rt>せっさたくま</rt></ruby>, which means "the Japanese language."
+To practice your kana reading skills, consider Tadoku graded readers, which you can find at [tadoku](https://tadoku.org/japanese/free-books/#l0). 
