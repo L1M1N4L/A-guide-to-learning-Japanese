@@ -34,7 +34,7 @@ This guide is designed with a clear focus on three main objectives:
    - The japanese writing system
    - Hiragana
    - Katakana
-   - Kanji
+   - Mastering the Kana: A Step-by-Step Guide
 
 3. [ Lorem ipsum dolor sit amet](#grammar-foundations)
    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, libero nec consectetur bibendum, lacus quam lobortis metus, at consequat risus quam eget felis. Integer vel elit at quam vestibulum viverra. Nullam gravida leo in pharetra facilisis.
@@ -181,3 +181,25 @@ Katakana is the angular and pointed variant of the Japanese kana syllabary. Its 
 - Writing slang terms, informal expressions, and colloquialisms
 - Transliterating foreign names, especially non-Japanese ones
 - acts as exaggeration like capital letters
+
+## Mastering the Kana: A Step-by-Step Guide
+
+### Step 1 - Familiarize Yourself with the Kana Charts
+Begin your journey by studying the comprehensive kana charts. These charts serve as invaluable references, visually representing the entire hiragana and katakana syllabaries.
+![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/1897d841-1c80-4cd3-b850-92bf92343063)
+Familiarize yourself with these charts, as they will become your companions in learning to read and write kana. Observe the organization of consonants and vowels, and take note of the stroke order for each character.
+
+### Step 2 -  External Interactive Learning Tools
+Watch the video "Learn ALL Hiragana in 1 Hour - How to Write and Read Japanese" (https://www.youtube.com/watch?v=_wZHqOghvSs) for a comprehensive introduction to the hiragana syllabary. This video provides a structured approach to learning the characters and their pronunciation.
+
+### Step 3 -  Practice, Practice, Practice
+Once you have gained a basic understanding of the kana, reinforce your knowledge through in the Tofugu Kana Quiz (https://kana-quiz.tofugu.com/) and challenge yourself.
+
+#### How to play
+- Click "All Kana" for Hiragana.
+  ![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/660c7c35-6d9d-4db3-ab64-c1516bf10e59)
+- Start guessing how the hiragana are pronounced using romaji.
+- Repeat until confident (may take a few days or weeks).
+- do it with all "Katakana" also checked.
+  ![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/870bfd19-2a81-48fb-83c1-a302de4d00f4)
+- Repeat until confident (may take a few days or weeks).
