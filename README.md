@@ -232,11 +232,11 @@ On'yomi (Sino-Japanese): These readings are based on the original Chinese pronun
 
 Kun'yomi (Native Japanese): These readings are assigned when kanji are used to represent native Japanese words. They are typically used when a kanji appears by itself or at the beginning of a word. For instance, in the word 楽しい (tanoshii, meaning "fun"), the kanji 楽 is read with a kun'yomi reading.
 
-## Guide to Writing Chinese Characters Effectively
+### Guide to Writing Chinese Characters Effectively
 
 Writing Chinese characters requires attention to detail and adherence to certain principles to ensure clarity and consistency. Here's a guide to help you master the art of writing Chinese characters effectively:
 
-### 1. Uniform Size
+#### 1. Uniform Size
 
 Maintaining uniformity in character size is crucial for readability and aesthetic appeal. Follow these guidelines:
 
@@ -244,7 +244,7 @@ Maintaining uniformity in character size is crucial for readability and aestheti
 
 - **Special Cases**: Certain characters may vary in size depending on their usage. For example, the character 言 (げん、ごん) should be written larger when used independently (meaning "speech" or "word") compared to when it appears as a radical/component in a more complex character like 論 (ろん).
 
-### 2. Stroke Order
+#### 2. Stroke Order
 
 Correct stroke order contributes to the legibility and elegance of Chinese characters. Follow these principles when writing characters:
 
@@ -258,7 +258,7 @@ Correct stroke order contributes to the legibility and elegance of Chinese chara
 ![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/9eb0b749-93d8-45bd-90a2-87ebceec76c7)
 
 
-## 3. Practice and Patience
+#### 3. Practice and Patience
 
 Writing Chinese characters proficiently requires consistent practice and patience. Here are some tips to enhance your writing skills:
 
