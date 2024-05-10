@@ -25,8 +25,8 @@ This guide is designed with a clear focus on three main objectives:
 
 ## Table of Contents
 
-1. [Introduction to Japanese Language](#introduction-to-japanese-language)
-   - Brief overview of the Japanese language, its importance, and unique characteristics.
+1. [Introduction / preface](#introduction-to-japanese-language)
+   - Hardstuck?
 
 2. [Getting Started](#getting-started)
    - Introduction to Hiragana and Katakana
@@ -67,3 +67,13 @@ This guide is designed with a clear focus on three main objectives:
 To get started, simply navigate through the chapters and resources provided in this repository. Each section is carefully structured to build upon the previous lessons, gradually advancing your Japanese language skills.
 
 Feel free to explore at your own pace, and don't hesitate to reach out if you have any questions or suggestions for improvement. Let's embark on this exciting journey of learning Japanese together!
+
+
+## Introduction
+### hardstuck?
+
+Many japanese students aim for goals like being able to speak the language fluently to enjoy untranslated Japanese media like anime or literature. However, despite years of study, many people get HARDSTUCK in reaching their goals. The issue MIGHT not be the difficulty of the language itself or a lack of effort on the part of the learners. Instead, the traditional methods of Japanese language learning often lack what is most important in the world of language aquisition: immersion.
+
+Immersion refers to exposing oneself to native content designed for native speakers, such as watching anime without subtitles or reading Japanese books and articles. By not incorporating immersion into their study routines, learners are missing out on a vital component that can impact their progress towards achieving fluency and the ability to understand and enjoy native Japanese content.
+
+The traditional methods of language learning, which may rely heavily on textbooks, grammar exercises, and classroom instruction, are not SUFFIECENT ON THEIR OWN (dosn't mean that it is not important) to reach these goals. Incorporating immersion through exposure to native materials is crucial for developing a deeper understanding and fluency in the language.
