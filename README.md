@@ -27,7 +27,7 @@ This guide is designed with a clear focus on three main objectives:
 
 1. [Introduction / preface](#introduction-to-japanese-language)
    - Hardstuck?
-
+   - Fudge "Japanese courses"
 2. [Getting Started](#getting-started)
    - Introduction to Hiragana and Katakana
    - Basic Vocabulary and Phrases
@@ -79,3 +79,26 @@ Many japanese students aim for goals like being able to speak the language fluen
 Immersion refers to exposing oneself to native content designed for native speakers, such as watching anime without subtitles or reading Japanese books and articles. By not incorporating immersion into their study routines, learners are missing out on a vital component that can impact their progress towards achieving fluency and the ability to understand and enjoy native Japanese content.
 
 The traditional methods of language learning, which may rely heavily on textbooks, grammar exercises, and classroom instruction, are not SUFFIECENT ON THEIR OWN (dosn't mean that it is not important) to reach these goals. Incorporating immersion through exposure to native materials is crucial for developing a deeper understanding and fluency in the language.
+
+### Fudge "Japanese courses"
+Language courses for Japanese are utterly failing their students. The traditional curriculum they force-feed to learners is nothing but institutionalized sabotage, dooming prospective speakers to years of busywork before any meaningful engagement with the real language.
+
+It starts with their obsession over rote memorization of hiragana, katakana, and thousands of individualized kanji. As if getting bogged down in scratching out physically demanding writing systems is the most crucial first step to fluency. 
+
+From there, courses have you mindlessly parroting set phrases like "How are you?"(お元気ですか) and "My name is..." (私の名前は。。。) ad nauseam. Brainless repetition as if imitating a broken record will somehow prepare you for the beautifully freeform reality of conversation.
+
+But the real punchline is their fixation on tediously overexplaining grammatical rules and structures. Endless charts, tables, exceptions piled on exceptions - they act like Japanese is some Frankenstein construct rather than an organically evolved, malleable language shaped by millions over centuries.
+
+Their crime is making language acquisition a chore - an endless slog through arid textbooks, drills, and scripted call-and-response when it should be a vibrant, experiential journey from day one. Languages don't truly exist in books; they live and breathe through the real conversations of native speakers steeped in cultural context.
+
+Languishing in classroom prisons, divorced from immersive experiences and authentic usage, is profoundly ineffective for gaining true fluency. It's like trying to learn swimming...by doing arm circles in the basement. You're not actually swimming! You need to cannonball into the damn pool on day one.
+
+One purported "benefit" of these Japanese courses is the pressure and accountability from teachers and classmates. They claim the fear of disappointing others or falling behind motivates students to stay diligent with the busywork. Yet this manufactured pressure simply perpetuates the cycle of languishing in beginner purgatory.
+
+These courses deliberately trap learners in safe, sterile boxes, forever gatekeeping the only form of practice that can actually forge true proficiency - authentic immersion in the living language. They have a vested financial interest in artificially dragging out the process for as many years as possible through tedious drills and curricula disconnected from reality.
+
+The truth is, there's no substitute for ALL-IN immersion - embracing the initial chaos and confusion, accepting you'll make embarrassing mistakes, but ultimately acquiring skills through real-world struggle. Absorbing the rhythms, idioms, and slang. Observing how words get filtered through cultural context. Realizing how grammar "rules" are more like fickle guidelines.
+
+Well, I've got news for you: Fudge your tedious, rigid, procrastination-promoting courses. 
+
+### Fudge "Japanese courses"
