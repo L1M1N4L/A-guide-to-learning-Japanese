@@ -46,7 +46,7 @@ This guide is designed with a clear focus on three main objectives:
    - Preparing for Grammar Study
    
 4. [Grammar Study](#intermediate-concepts)
-   - 
+   - Hello
 
 ## How to Use This Guide
 
