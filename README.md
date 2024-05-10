@@ -28,6 +28,8 @@ This guide is designed with a clear focus on three main objectives:
 1. [Introduction / preface](#introduction-to-japanese-language)
    - Hardstuck?
    - Fudge "Japanese courses"
+   - You Might Not Be as Good as You Think
+   - Immersive Language Learning Journey
 2. [Getting Started](#getting-started)
    - Introduction to Hiragana and Katakana
    - Basic Vocabulary and Phrases
@@ -101,4 +103,34 @@ The truth is, there's no substitute for ALL-IN immersion - embracing the initial
 
 Well, I've got news for you: Fudge your tedious, rigid, procrastination-promoting courses. 
 
-### Fudge "Japanese courses"
+### You Might Not Be as Good as You Think
+It's a harsh reality, but the truth is that most of us tend to overestimate our abilities when it comes to learning a new skill. We often have a false sense of confidence, thinking that we're better than we actually are. This illusion can be detrimental to our progress, as it prevents us from acknowledging our weaknesses and addressing them effectively.
+
+When you start learning something new, whether it's a language, a musical instrument, or a coding language, you might feel like you're grasping the basics relatively quickly. However, this initial ease can be misleading. As you delve deeper into the subject, you'll realize that there are layers of complexity that you hadn't anticipated, and your initial confidence might start to waver.
+
+This phenomenon is known as the "beginner's bubble," where beginners overestimate their abilities due to the simplicity of the initial stages. As you progress, the learning curve steepens, and you're faced with challenges that expose your true level of proficiency.
+
+Language learning is a prime example of this. Language is huge – there's so much to it that far exceeds the limitations of a classroom or app-based approach trying to teach via simplistic rules like "x is y."X は Yです Mastering a language requires enormous amounts of experience reading and listening to native speakers' actual usage.
+
+It's often difficult to grasp why natives tend to use certain phrases in particular contexts, or one word over another synonymous option. This creates a barrier, as you can't just study grammar and vocabulary to achieve native-like fluency. Without prerequisite immersive experience, attempting to construct sentences leads to unnatural phrasing. Lack of experience with real language use also makes it difficult to understand natives due to unfamiliarity with idioms and patterns outside a textbook's scope.
+
+That's why immersion – reading and listening to authentic native content – is crucial. Language acquisition happens by subconsciously internalizing patterns from comprehensible input. When you understand the immersive content, your brain stores those language patterns for later retrieval. Your fluent reading ability stems from vast prior experience – your brain recognizes "there's pattern a used with z and c!" You grasp contexts, tones and connections between sentences not from intentionally studying rules, but from amassing exposure to language in use.
+
+It's important to recognize the tendency to overestimate your abilities and approach your learning journey with humility. Acknowledge that you might not be as good as you think, and be prepared to encounter difficulties along the way. Embrace that learning is a continuous process with always more room for improvement.
+
+Accepting you're not as skilled as initially believed can be humbling, but it's an opportunity for growth. When you confront weaknesses, you can seek out guidance, adjust techniques, and develop a growth mindset. True mastery comes from perseverance, dedication, and willingness to confront limitations. Embrace challenges, and don't let overconfidence derail your progress. Stay humble, keep immersing and learning, and you'll make remarkable strides.
+
+### Immersive Language Learning Journey
+Immersion is the act of engaging with natural, authentic content in your target language - the kind of material intended for native speakers, not simplified or curated specifically for learners. If you're studying English, reading this very guide counts as English immersion since it's written for a proficient, native-level audience.
+
+The immersion approach represents a paradigm shift from traditional academic learning. Rather than striving for perfectionism and total comprehension from the outset, effective language acquisition requires getting comfortable with uncertainty. You must make peace with not understanding everything fully, at least initially.
+
+This top-down philosophy contrasts starkly with the typical school experience, where you're rewarded for memorizing prescribed knowledge and acing exams. With language learning, however, the "test" is the real-world usage of the language by natives, which cannot be fully accounted for in textbooks or classroom materials.
+
+When first exposed to native-level content like books, shows, or conversations, learners often become quickly discouraged by their low comprehension levels. But persisting through this frustration is crucial. The more immersive exposure you accrue, the more your brain will naturally internalize the language's patterns and nuances.
+
+Of course, full immersion isn't the only technique. You'll complement it with focused study of grammar, vocab-building with dictionaries, and other structured activities. But the immersive piece - embracing the uncomfortable process of deciphering authentic language in context - is vital for progressing toward real fluency.
+
+Ultimately, becoming truly proficient in a new language requires shedding the mindset of perfect understanding from day one. Commit to the long-term immersive journey, have patience with yourself, and comprehension will gradually bloom from repeated exposure over time.
+
+Good luck on your studies!
