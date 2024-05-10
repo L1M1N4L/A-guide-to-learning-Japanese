@@ -225,10 +225,11 @@ One key to mastering kanji is understanding how they are constructed from recurr
 
 By analyzing the radicals/components, learners can disambiguate between similar-looking kanji and make educated guesses about meanings and readings. Components also serve as memory aids.
 
-### Readings: On'yomi and Kun'yomi
-Kanji have two types of readings: on'yomi (Sino-Japanese) were based on the original Chinese pronunciations, while kun'yomi (native Japanese) readings were assigned when kanji were used to represent native Japanese words.
+### Readings: On'yomi and Kun'yomi:
+Kanji characters can have two types of readings:
 
-Most kanji have at least two readings - an on'yomi reading for words borrowed from Chinese and a kun'yomi reading when representing a Japanese word. Context determines which reading is appropriate.
+On'yomi (Sino-Japanese): These readings are based on the original Chinese pronunciations of the characters. They were introduced to Japan along with the characters themselves. When a kanji is used in combination with other characters to form compound words, on'yomi readings are often used. For example, in the word 音楽 (ongaku, meaning "music"), both 音 and 楽 are read with on'yomi readings.
+Kun'yomi (Native Japanese): These readings are assigned when kanji are used to represent native Japanese words. They are typically used when a kanji appears by itself or at the beginning of a word. For instance, in the word 楽しい (tanoshii, meaning "fun"), the kanji 楽 is read with a kun'yomi reading.
 
 ### Learning and Using Kanji
 While kanji were historically acquired through laborious hours of practice writing, modern technologies provide tools like digital dictionaries and spaced repetition software to facilitate studying kanji vocabulary efficiently.  
