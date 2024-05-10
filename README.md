@@ -130,6 +130,18 @@ When first exposed to native-level content like books, shows, or conversations, 
 
 Of course, full immersion isn't the only technique. You'll complement it with focused study of grammar, vocab-building with dictionaries, and other structured activities. But the immersive piece - embracing the uncomfortable process of deciphering authentic language in context - is vital for progressing toward real fluency.
 
+
 Ultimately, becoming truly proficient in a new language requires shedding the mindset of perfect understanding from day one. Commit to the long-term immersive journey, have patience with yourself, and comprehension will gradually bloom from repeated exposure over time.
 
 Good luck on your studies!
+
+## Getting Started
+
+### A Beginner's Path to Learning Japanese
+For those starting their journey with the Japanese language, the process typically involves:
+
+- Learning hiragana and katakana, the two essential writing systems.
+- Building a basic vocabulary and understanding the corresponding kanji (logographic characters) .
+- Studying Japanese grammar through structured lessons (which later will be provided in this guide).
+- Immersing oneself in easy content with high repetition. This step will consume a significant amount of time and effort.
+
