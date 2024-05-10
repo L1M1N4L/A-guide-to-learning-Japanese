@@ -240,9 +240,9 @@ Writing Chinese characters requires attention to detail and adherence to certain
 
 Maintaining uniformity in character size is crucial for readability and aesthetic appeal. Follow these guidelines:
 
-- **Relative Size**: Practice writing characters within an imaginary square or circle to ensure uniformity in size. For instance, the 2-stroke character 力 (lì) should occupy a similar space as the 15-stroke character 論 (lùn).
+- **Relative Size**: Practice writing characters within an imaginary square or circle to ensure uniformity in size. For instance, the 2-stroke character 力 (りょく) should occupy a similar space as the 15-stroke character 論 (ろん).
 
-- **Special Cases**: Certain characters may vary in size depending on their usage. For example, the character 言 (yán) should be written larger when used independently (meaning "speech" or "word") compared to when it appears as a radical/component in a more complex character like 論 (lùn).
+- **Special Cases**: Certain characters may vary in size depending on their usage. For example, the character 言 (げん、ごん) should be written larger when used independently (meaning "speech" or "word") compared to when it appears as a radical/component in a more complex character like 論 (ろん).
 
 ### 2. Stroke Order
 
