@@ -147,5 +147,11 @@ For those starting their journey with the Japanese language, the process typical
 
 ### The japanese writing system
 When starting to learn Japanese, mastering the three writing systems is important. These systems, hiragana, katakana, and kanji, each serve distinct purposes and play vital roles in reading, writing, and understanding the language.
-#### Hiragana: The Phonetic Alphabet
+
 - Hiragana is a set of 46 characters that represent the basic sounds of the Japanese language. These characters are primarily used for particles, native Japanese words, and portions of words. Hiragana is essential for expressing the pronunciation of Japanese words and sentences correctly.
+
+- Katakana is another set of characters that serves a specific purpose: representing loanwords from other languages, primarily English. When you see a word written in katakana, it's likely a foreign term adapted into Japanese.
+
+- Kanji are characters borrowed from Chinese that convey both meaning and sound. These characters form the stems of many Japanese words and are essential for comprehending the nuances and depth of the language.
+
+![japanese writing (1)](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/9a1ca518-a472-46e6-bf01-b34f996f6484)
