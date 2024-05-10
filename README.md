@@ -6,7 +6,7 @@ Created from extensive research and personal experience, this guide provides a c
 
 Whether your goals include passing exams, preparing for university, or simply speaking fluently, this guide is designed to support your journey. Let's embark on this adventure together and unlock the full potential of your Japanese proficiency!
 
-## About the Author
+# About the Author
 
 Hi, I'm L1M1N4L, your guide on this Japanese language adventure. Why should you trust me? Here are a few reasons:
 
@@ -14,7 +14,7 @@ Hi, I'm L1M1N4L, your guide on this Japanese language adventure. Why should you 
 - **Pitch Accent Emphasis**: Understanding pitch accent is crucial for sounding more natural and native-like in Japanese speech. I'll provide guides for you to master this aspect of the language.
 - **Teaching Experience**: Utilizing my teaching tenure at Lembaga Bahasa Internasional (LBI UI), affiliated with Universitas Indonesia, I've concentrated on Japanese language and culture, placing significant emphasis on pitch accent. This experience enriches the guidance provided within this resource.
 
-## Guide Focus
+# Guide Focus
 
 This guide is designed with a clear focus on three main objectives:
 
@@ -22,7 +22,7 @@ This guide is designed with a clear focus on three main objectives:
 2. **University Preparation**: If your goal is to study at a Japanese university, the guide offers resources and tips to prepare you for the language proficiency requirements, including insights from studying for the EJU.
 3. **Speaking Proficiency**: Beyond just passing exams, this guide prioritizes learning how to speak like native Japanese speakers, with a special emphasis on mastering pitch accent and other nuances of natural speech.
 
-## Table of Contents
+# Table of Contents
 
 1. [Introduction / preface](#Introduction)
    - Hardstuck?
@@ -72,8 +72,8 @@ To get started, simply navigate through the chapters and resources provided in t
 Feel free to explore at your own pace, and don't hesitate to reach out if you have any questions or suggestions for improvement. Let's embark on this exciting journey of learning Japanese together!
 
 
-## Introduction
-### HARDSTUCK?
+# Introduction
+## HARDSTUCK?
 
 Lets start with the definition of HARDSTUCK, hardstuck (comparative more hardstuck, superlative most hardstuck) (video games, slang) refers to a person who  is firmly stuck at a particular rank or Elo level; unable to progress in skill.
 
@@ -83,7 +83,7 @@ Immersion refers to exposing oneself to native content designed for native speak
 
 The traditional methods of language learning, which may rely heavily on textbooks, grammar exercises, and classroom instruction, are not SUFFIECENT ON THEIR OWN (dosn't mean that it is not important) to reach these goals. Incorporating immersion through exposure to native materials is crucial for developing a deeper understanding and fluency in the language.
 
-### Fudge "Japanese courses"
+## Fudge "Japanese courses"
 Language courses for Japanese are utterly failing their students. The traditional curriculum they force-feed to learners is nothing but institutionalized sabotage, dooming prospective speakers to years of busywork before any meaningful engagement with the real language.
 
 It starts with their obsession over rote memorization of hiragana, katakana, and thousands of individualized kanji. As if getting bogged down in scratching out physically demanding writing systems is the most crucial first step to fluency. 
@@ -104,7 +104,7 @@ The truth is, there's no substitute for ALL-IN immersion - embracing the initial
 
 Well, I've got news for you: Fudge your tedious, rigid, procrastination-promoting courses. 
 
-### You Might Not Be as Good as You Think
+## You Might Not Be as Good as You Think
 It's a harsh reality, but the truth is that most of us tend to overestimate our abilities when it comes to learning a new skill. We often have a false sense of confidence, thinking that we're better than we actually are. This illusion can be detrimental to our progress, as it prevents us from acknowledging our weaknesses and addressing them effectively.
 
 When you start learning something new, whether it's a language, a musical instrument, or a coding language, you might feel like you're grasping the basics relatively quickly. However, this initial ease can be misleading. As you delve deeper into the subject, you'll realize that there are layers of complexity that you hadn't anticipated, and your initial confidence might start to waver.
@@ -121,7 +121,7 @@ It's important to recognize the tendency to overestimate your abilities and appr
 
 Accepting you're not as skilled as initially believed can be humbling, but it's an opportunity for growth. When you confront weaknesses, you can seek out guidance, adjust techniques, and develop a growth mindset. True mastery comes from perseverance, dedication, and willingness to confront limitations. Embrace challenges, and don't let overconfidence derail your progress. Stay humble, keep immersing and learning, and you'll make remarkable strides.
 
-### Immersive Language Learning Journey
+## Immersive Language Learning Journey
 Immersion is the act of engaging with natural, authentic content in your target language - the kind of material intended for native speakers, not simplified or curated specifically for learners. If you're studying English, reading this very guide counts as English immersion since it's written for a proficient, native-level audience.
 
 The immersion approach represents a paradigm shift from traditional academic learning. Rather than striving for perfectionism and total comprehension from the outset, effective language acquisition requires getting comfortable with uncertainty. You must make peace with not understanding everything fully, at least initially.
@@ -137,9 +137,9 @@ Ultimately, becoming truly proficient in a new language requires shedding the mi
 
 Good luck on your studies!
 
-## Getting Started
+# Getting Started
 
-### A Beginner's Path to Learning Japanese
+## A Beginner's Path to Learning Japanese
 For those starting their journey with the Japanese language, the process typically involves:
 
 - Learning hiragana and katakana, the two essential writing systems.
@@ -147,7 +147,7 @@ For those starting their journey with the Japanese language, the process typical
 - Studying Japanese grammar through structured lessons (which later will be provided in this guide).
 - Immersing oneself in easy content with high repetition. This step will consume a significant amount of time and effort.
 
-### The japanese writing system
+## The japanese writing system
 When starting to learn Japanese, mastering the three writing systems is important. These systems, hiragana, katakana, and kanji, each serve distinct purposes and play vital roles in reading, writing, and understanding the language.
 
 The Japanese writing system is unique and comprises three distinct character sets: hiragana, katakana, and kanji. Unlike alphabets, where each character represents a single vowel or consonant, the Japanese system is more accurately described as a syllabary, where each character represents an entire syllable (mora).
@@ -160,7 +160,7 @@ The Japanese writing system is unique and comprises three distinct character set
 
 ![japanese_writing__1_-removebg](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/6e7f91d0-c57a-4672-a6ba-8dfb6c824488)
 
-### Hiragana
+## Hiragana
 ![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/b672a43f-8f51-46d9-8fa9-1aab9e2fa7cc)
 Hiragana is one of the two primary syllabary (kana) systems in Japanese writing, along with katakana. Its elegant, flowing curves give it a distinctive aesthetic appeal.
 Key uses of hiragana include:
@@ -171,7 +171,7 @@ Key uses of hiragana include:
 - Transcribing words when kanji is unavailable or impractical 
 
 
-### Katakana
+## Katakana
 ![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/44b22130-828a-4e22-afab-536305f41f4a)
 
 Katakana is the angular and pointed variant of the Japanese kana syllabary. Its key uses include:
