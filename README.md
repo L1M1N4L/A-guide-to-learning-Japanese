@@ -24,7 +24,7 @@ This guide is designed with a clear focus on three main objectives:
 
 ## Table of Contents
 
-1. [Introduction / preface](##Introduction)
+1. [Introduction / preface](#Introduction)
    - Hardstuck?
    - Fudge "Japanese courses"
    - You Might Not Be as Good as You Think
