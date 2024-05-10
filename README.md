@@ -162,10 +162,22 @@ The Japanese writing system is unique and comprises three distinct character set
 
 ### Hiragana
 ![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/b672a43f-8f51-46d9-8fa9-1aab9e2fa7cc)
-Hiragana is one of the two primary syllabary systems in Japanese writing, along with katakana. Its elegant, flowing curves give it a distinctive aesthetic appeal.
+Hiragana is one of the two primary syllabary (kana) systems in Japanese writing, along with katakana. Its elegant, flowing curves give it a distinctive aesthetic appeal.
 Key uses of hiragana include:
 
 - Representing grammatical particles and verb conjugations
 - Writing native Japanese words without kanji counterparts
 - Denoting personal names and honorifics
-- Transcribing words when kanji is unavailable or impractical
+- Transcribing words when kanji is unavailable or impractical 
+
+
+### Katakana
+![image](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/44b22130-828a-4e22-afab-536305f41f4a)
+
+Katakana is the angular and pointed variant of the Japanese kana syllabary. Its key uses include:
+
+- Transcribing foreign loanwords from languages like English
+- Representing onomatopoeic words mimicking sounds and actions
+- Writing slang terms, informal expressions, and colloquialisms
+- Transliterating foreign names, especially non-Japanese ones
+- acts as exaggeration like capital letters
