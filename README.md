@@ -24,7 +24,7 @@ This guide is designed with a clear focus on three main objectives:
 
 ## Table of Contents
 
-1. [Introduction / preface](#introduction-to-japanese-language)
+1. [Introduction / preface](##Introduction)
    - Hardstuck?
    - Fudge "Japanese courses"
    - You Might Not Be as Good as You Think
@@ -70,7 +70,7 @@ To get started, simply navigate through the chapters and resources provided in t
 Feel free to explore at your own pace, and don't hesitate to reach out if you have any questions or suggestions for improvement. Let's embark on this exciting journey of learning Japanese together!
 
 
-## Introduction
+##Introduction
 ### HARDSTUCK?
 
 Lets start with the definition of HARDSTUCK, hardstuck (comparative more hardstuck, superlative most hardstuck) (video games, slang) refers to a person who  is firmly stuck at a particular rank or Elo level; unable to progress in skill.
