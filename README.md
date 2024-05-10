@@ -236,3 +236,11 @@ While kanji were historically acquired through laborious hours of practice writi
 Knowing kanji is essential for full Japanese literacy. It allows precise and unambiguous representation of words, where homophones written in kana alone would be unclear. Newspapers, novels, and most literature for native adults is written using a mix of kanji and kana.
 
 With patience, efficient study methods, and lots of reading practice, learners can develop skilled literacy in recognizing and producing the kanji writing system integrated so uniquely within Japanese.
+
+### TLDR
+Some key things to understand about kanji:
+
+- Kanji represent meaning, not just sounds like kana
+- Kanji should be learned alongside vocabulary words, not in isolation
+- Components like radicals can help distinguish between similar kanji
+- Looking up words in a dictionary is crucial for learning readings and meaning
