@@ -190,10 +190,10 @@ Begin your journey by studying the comprehensive kana charts. These charts serve
 Familiarize yourself with these charts, as they will become your companions in learning to read and write kana. Observe the organization of consonants and vowels, and take note of the stroke order for each character.
 
 ### Step 2 -  External Interactive Learning Tools
-Watch the video "Learn ALL Hiragana in 1 Hour - How to Write and Read Japanese" (https://www.youtube.com/watch?v=_wZHqOghvSs) for a comprehensive introduction to the hiragana syllabary. This video provides a structured approach to learning the characters and their pronunciation.
+Watch the video ["Learn ALL Hiragana in 1 Hour - How to Write and Read Japanese"](https://www.youtube.com/watch?v=_wZHqOghvSs) for a comprehensive introduction to the hiragana syllabary. This video provides a structured approach to learning the characters and their pronunciation.
 
 ### Step 3 -  Practice, Practice, Practice
-Once you have gained a basic understanding of the kana, reinforce your knowledge through in the Tofugu Kana Quiz (https://kana-quiz.tofugu.com/) and challenge yourself.
+Once you have gained a basic understanding of the kana, reinforce your knowledge through in the [Tofugu Kana Quiz](https://kana-quiz.tofugu.com/) and challenge yourself.
 
 #### How to play
 - Click "All Kana" for Hiragana.
