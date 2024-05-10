@@ -207,3 +207,32 @@ Once you have gained a basic understanding of the kana, reinforce your knowledge
 ### Step 4 -  Embrace Immersion 
 immerse yourself in Japanese media and culture. Try reading household Japanese items, such as product labels or instructions, to expose yourself to kana in everyday contexts. Additionally, what helps immensely in memorizing the kana is reading sentences written entirely in kana. While not everything in Japanese is written in kana, and you may have trouble reading most materials without kanji knowledge at this point, sometimes kana is provided over kanji to aid reading. This is known as furigana. For example: <ruby>切磋琢磨<rt>せっさたくま</rt></ruby>, which means "cultivating one's character by studying hard."
 To practice your kana reading skills, consider Tadoku graded readers, which you can find [here](https://tadoku.org/japanese/free-books/#l0). 
+
+## Kanji: The Logographic Chinese Characters in Japanese Writing
+
+One of the most unique and challenging aspects of Japanese for learners is the integration of kanji - Chinese logographic characters adapted for use in the Japanese writing system. While hiragana and katakana represent sounds, kanji characters represent whole words or morphemes and convey meaning directly.
+
+### Origins and Development
+The earliest kanji were adopted from China over 1,500 years ago when the Japanese had no writing system of their own. Over many centuries, these logographic characters became integrated into Japanese in unique ways. Some characters took on different pronunciations and meanings from their original Chinese usage. New characters were also created in Japan for native words.
+
+### Number of Kanji
+There are thousands of kanji characters, with most estimates putting the number used in modern Japanese between 2,000-3,000 commonly occurring characters. This is a vast visual vocabulary compared to the 50 basic hiragana and katakana characters.
+
+However, kanji are not memorized through rote repetition like kana. Instead, they are learned gradually through vocabulary acquisition. As learners encounter new words, they look up the kanji and associated readings/meanings, progressively building recognition.
+
+### Components and Radicals
+One key to mastering kanji is understanding how they are constructed from recurring components and radicals. These function almost like ROOT words in English. For example, the radical 木 means "tree/wood" and appears in kanji like 松 (pine), 林 (woods), 森 (forest), etc.  
+
+By analyzing the radicals/components, learners can disambiguate between similar-looking kanji and make educated guesses about meanings and readings. Components also serve as memory aids.
+
+### Readings: On'yomi and Kun'yomi
+Kanji have two types of readings: on'yomi (Sino-Japanese) were based on the original Chinese pronunciations, while kun'yomi (native Japanese) readings were assigned when kanji were used to represent native Japanese words.
+
+Most kanji have at least two readings - an on'yomi reading for words borrowed from Chinese and a kun'yomi reading when representing a Japanese word. Context determines which reading is appropriate.
+
+### Learning and Using Kanji
+While kanji were historically acquired through laborious hours of practice writing, modern technologies provide tools like digital dictionaries and spaced repetition software to facilitate studying kanji vocabulary efficiently.  
+
+Knowing kanji is essential for full Japanese literacy. It allows precise and unambiguous representation of words, where homophones written in kana alone would be unclear. Newspapers, novels, and most literature for native adults is written using a mix of kanji and kana.
+
+With patience, efficient study methods, and lots of reading practice, learners can develop skilled literacy in recognizing and producing the kanji writing system integrated so uniquely within Japanese.
