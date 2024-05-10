@@ -154,7 +154,7 @@ The Japanese writing system is unique and comprises three distinct character set
 
 - Katakana is another set of characters that serves a specific purpose: representing loanwords from other languages, primarily English. When you see a word written in katakana, it's likely a foreign term adapted into Japanese.
 
-- Kanji are characters borrowed from Chinese that convey both meaning and sound. These characters form the stems of many Japanese words and are essential for comprehending the nuances and depth of the language.
+- Kanji, which are logographic characters adopted from Chinese. Kanji characters represent entire words or concepts rather than individual sounds. While it is possible to write Japanese entirely in kana, this is not the norm. Instead, Japanese writing typically employs a combination of kana (hiragana and katakana) and kanji.
 
 ![japanese_writing__1_-removebg](https://github.com/L1M1N4L/A-guide-to-learning-Japanese/assets/127649044/6e7f91d0-c57a-4672-a6ba-8dfb6c824488)
 
