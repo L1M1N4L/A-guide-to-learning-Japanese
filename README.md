@@ -42,7 +42,7 @@ This guide is designed with a clear focus on three main objectives:
 3. [Introduction to post beginner stage]()
    - Introduction to Output
    - Pronunciation, Pitch Accent & Phonetics
-   - Preparing for Grammar Study
+   - Your Journey Begins with Community
    
 4. [Grammar Study](#intermediate-concepts)
    - Hello
@@ -333,7 +333,7 @@ For learners focused solely on conversation, putting extensive effort into pronu
 
 
 
-## Mining in post N5 grammar study
+## Your Journey Begins with Community
 As you begin your journey into the world of Japanese language learning, it's important to remember that you're not alone. Learning a new language can present challenges, but there's a vast community of learners and enthusiasts ready to support you every step of the way.
 
 As you dive into this guide, keep in mind that seeking assistance is always an option. Whether you're struggling with a grammar concept, confused about pronunciation, or simply need some motivation, the [Kouyou Institute Discord server](https://discord.gg/kJKd87kwq6) is here to help. It's a community where you can connect with fellow learners, ask questions, share experiences, and receive guidance from more experienced learners and language experts.
