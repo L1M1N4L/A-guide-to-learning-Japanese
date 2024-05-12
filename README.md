@@ -37,12 +37,11 @@ This guide is designed with a clear focus on three main objectives:
    - Mastering the Kana: A Step-by-Step Guide
    - Kanji
    - introduction to japanese grammar
-   - beginner immersion
-   - beginner Learning process
+   - Beginner's Guide to Language Immersion
 
 3. [Introduction to post beginner stage]()
    - Introduction to Output
-   - Introduction to Pitch Accent
+   - Pronunciation, Pitch Accent & Phonetics
    - Preparing for Grammar Study
    
 4. [Grammar Study](#intermediate-concepts)
@@ -270,3 +269,75 @@ Some key things to understand about kanji:
 - Kanji should be learned alongside vocabulary words, not in isolation
 - Components like radicals can help distinguish between similar kanji
 - Looking up words in a dictionary is crucial for learning readings and meaning
+
+## introduction to japanese grammar
+
+Learning Japanese grammar is essential but can feel daunting, especially for beginners. There are many resources out there, but this comprehensive guide aims to be your ultimate solution. Later in this guide, all the important grammar points will be thoroughly explained in a clear, structured manner with examples. No need to juggle multiple outside resources - this single guide will cover everything you need to build a solid foundation in Japanese grammar from the ground up. The explanations will be straightforward yet detailed, allowing you to master the grammar through the lessons contained here. It's prime time to start your Japanese grammar learning journey through the focused curriculum in this guide.
+
+## Beginner's Guide to Language Immersion
+
+### Grasping Comprehensible Input
+
+Comprehensible input denotes content that matches your current proficiency level, containing just a few challenging parts per sentence that you can deduce from context. For novices, finding such content can be hard since everything appears incomprehensible. Although grappling with incomprehensible input has its merits, overcoming this initial hurdle is tough.
+
+### Crafting Enjoyable Immersion
+
+- Opt for entertaining media regardless of language complexity. Fun immersion ensures consistent engagement and motivation.
+- As you progress, understanding will naturally increase, rendering the content more comprehensible over time.
+
+### Utilizing Dictionaries
+
+- Use Jisho.org to look up unfamiliar words individually.
+
+### Selecting Immersion Content
+
+- Choose content based on personal interests, such as anime, movies, dramas, novels, manga, visual novels, games, or YouTube videos.
+
+### Engaging with Listening Immersion
+
+- Listening involves a top-down, intuitive method. Avoid overthinking and simply go with the flow.
+  - **Level 1:** Listen without interruptions.
+  - **Level 2:** Identify standout words and look them up while continuing to listen.
+  - **Level 3:** Pause to search for every unknown word (not recommended for beginners/intermediates).
+
+### Active versus Passive Listening
+
+- **Active listening:** Concentrate fully on the audio/video.
+- **Passive listening:** Let the audio play in the background while multitasking.
+
+### Embracing Reading Immersion
+
+- Reading follows a bottom-up, analytical approach. Take your time with each sentence, looking up unfamiliar words as needed.
+- Process: Read → Look up word → Understand → Continue reading → Repeat.
+- Begin with content containing visuals (e.g., anime subtitles, manga, visual novels) to ease into reading.
+
+### Striving for an Optimal Listening-to-Reading Ratio
+
+- In the beginner stage, aim for a 7:3 ratio, prioritizing listening for its natural language exposure.
+- As proficiency improves, transition to a 5:5 ratio, balancing listening and reading time.
+
+# Introduction to post beginner stage
+
+## Exploring Output in Language Learning
+
+Many believe that speaking a language frequently leads to fluency. However, true progress comes from absorbing input—listening and observing native speakers. While speaking and writing may not directly improve proficiency, they play a vital role in solidifying understanding and applying what we've learned.
+
+Consistent practice with both input and output is key. Despite some methods advocating for delaying output until proficiency is high, I disagree. Waiting too long can fuel a fear of making mistakes, which hampers progress. Through my work with students, I've noticed a lack of confidence in output. This reluctance often stems from a fear of speaking incorrectly or being judged, fostering a harmful perfectionist mindset that slows language acquisition.
+
+## Pronunciation, Pitch Accent & Phonetics
+In Japanese, there is an important concept called pitch accent that affects pronunciation. While not strictly necessary for conversational ability, studying pitch accent can help learners achieve truly excellent pronunciation.
+
+This guide will include a section teaching the fundamentals of pitch accent for those looking to master Japanese pronunciation at a higher level. However, pitch accent study is optional - it is not required for basic communication in Japanese.
+
+For learners focused solely on conversation, putting extensive effort into pronunciation may not be essential. But for those dedicated to attaining native-like pronunciation skills, this guide provides the opportunity to dive into the mechanics of pitch accent.
+
+
+
+## Mining in post N5 grammar study
+As you begin your journey into the world of Japanese language learning, it's important to remember that you're not alone. Learning a new language can present challenges, but there's a vast community of learners and enthusiasts ready to support you every step of the way.
+
+As you dive into this guide, keep in mind that seeking assistance is always an option. Whether you're struggling with a grammar concept, confused about pronunciation, or simply need some motivation, the [Kouyou Institute Discord server](https://discord.gg/kJKd87kwq6) is here to help. It's a community where you can connect with fellow learners, ask questions, share experiences, and receive guidance from more experienced learners and language experts.
+
+Don't let obstacles deter you from your language learning goals. Embrace challenges as opportunities for growth, and remember that every question asked is a step closer to mastery. Together, we'll navigate the complexities of Japanese language and culture, supporting each other along the way.
+
+So, as you embark on this exciting journey, know that you have a supportive community behind you.  May your Japanese learning experience be enriching, fulfilling, and enjoyable. Happy learning!
